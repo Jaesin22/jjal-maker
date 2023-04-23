@@ -1,10 +1,6 @@
 const EMPTY_HEART = "🤍";
 const FULL_HEART = "💖";
 
-const CAT1 = "https://cataas.com/cat/HSENVDU4ZMqy7KQ0/says/react";
-const CAT2 = "https://cataas.com/cat/BxqL2EjFmtxDkAm2/says/inflearn";
-const CAT3 = "https://cataas.com/cat/18MD6byVC1yKGpXp/says/JavaScript";
-
 const includesHangul = (text) => /[ㄱ-ㅎ|ㅏ-ㅣ|가-힣]/i.test(text);
 
 const jsonLocalStorage = {
