@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jjal-maker/static/css/main.2eab430d.css",
+    "main.js": "/jjal-maker/static/js/main.faa4ed40.js",
+    "static/js/787.44ce1ab4.chunk.js": "/jjal-maker/static/js/787.44ce1ab4.chunk.js",
+    "index.html": "/jjal-maker/index.html",
+    "main.2eab430d.css.map": "/jjal-maker/static/css/main.2eab430d.css.map",
+    "main.faa4ed40.js.map": "/jjal-maker/static/js/main.faa4ed40.js.map",
+    "787.44ce1ab4.chunk.js.map": "/jjal-maker/static/js/787.44ce1ab4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2eab430d.css",
+    "static/js/main.faa4ed40.js"
+  ]
+}
